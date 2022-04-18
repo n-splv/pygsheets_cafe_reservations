@@ -169,4 +169,5 @@ Used libraries:
 - nithinmurali [pygsheets](https://github.com/nithinmurali/pygsheets)
 - cphyc [matplotlib-label-lines](https://github.com/cphyc/matplotlib-label-lines)
 - lead-ratings [gender-guesser](https://github.com/lead-ratings/gender-guesser)
+- barseghyanartur [transliterate](https://github.com/barseghyanartur/transliterate)
 - numpy, matplotlib, pandas - awesome as usual :)
