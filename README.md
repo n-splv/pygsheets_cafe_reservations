@@ -31,6 +31,7 @@ All the table reservations were written down arbitrarely in a notebook.
 - [x] Enable the analysis of collected data.
 
 ### Result
+[> Link to the demo Spreadsheet](https://docs.google.com/spreadsheets/d/1OybmGPD4qi9k0BlmHr1tee_5M1D3xCAftx32chKFNk0/edit?usp=sharing)
 <p align = "center">
 <img src = "pics/result.png" alt="result" style="width:100%">
 </p>
