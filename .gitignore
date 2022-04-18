@@ -3,6 +3,7 @@
 /*.json
 /*.csv
 /draft.ipynb
+/.idea
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,pycharm,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,pycharm,python
